@@ -1,3 +1,5 @@
+Contiene el directorio src del despliegue de la práctica:
+
 Objetivos de la Práctica
 ● Configurar un proyecto Angular con soporte para routing y SASS.
 ● Crear y organizar componentes que representen distintas páginas de la web.
